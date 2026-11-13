@@ -84,8 +84,8 @@ Note: Both the Services have been uploaded into different GitHub Repositories. P
 
 | Service Name | GitHub URLs | 
 | :--- | :--- | 
-| `Catalog-Inventory-Service` | (https://github.com/2025mt03081-sudo/Scalable_Services_Assignment-1_Catalog-Inventory-Service) |
-| `Order-Service` | (https://github.com/2025mt03081-sudo/Scalable_Services_Assignment-1_Order-Service) |
+| `Catalog-Inventory-Service` | (https://github.com/Bits-vamsikrishna/2025MT03053-Catalog-Inventory-Service) |
+| `Order-Service` | (https://github.com/Bits-vamsikrishna/2025MT03053-order-Service) |
 
 ---
 
